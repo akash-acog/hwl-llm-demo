@@ -1,0 +1,1 @@
+Extract the license information from this document:
